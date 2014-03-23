@@ -6,6 +6,6 @@
     "Author":"cxfksword",
     "Version":"1.0",
     "Language":"csharp",
-    "Website":"http://www.getwox.com",
+    "Website":"https://github.com/cxfksword/Wox.Plugin.Recent",
     "ExecuteFileName":"Wox.Plugin.Recent.dll"
 }
